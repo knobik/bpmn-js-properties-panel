@@ -1,6 +1,6 @@
 {
   "name": "@knobik/bpmn-js-properties-panel",
-  "version": "5.37.0",
+  "version": "5.37.4",
   "description": "A simple properties panel for bpmn-js",
   "files": [
     "dist"
