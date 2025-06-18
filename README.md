@@ -1,4 +1,6 @@
-# bpmn-js-properties-panel
+# @knobik/bpmn-js-properties-panel
+
+Fork of bpmn-js-properties-panel, but includes a custom script editor and some love for camunda platform.
 
 [![CI](https://github.com/bpmn-io/bpmn-js-properties-panel/workflows/CI/badge.svg)](https://github.com/bpmn-io/bpmn-js-properties-panel/actions?query=workflow%3ACI)
 
